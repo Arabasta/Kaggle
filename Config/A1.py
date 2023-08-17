@@ -1,3 +1,5 @@
+# Credit: https://github.com/joccing/ICT303-assignment1
+
 import os
 import errno
 import requests
