@@ -1,3 +1,5 @@
+# Credit: https://github.com/joccing/ICT303-assignment2
+
 import sys
 import zipfile
 import os
