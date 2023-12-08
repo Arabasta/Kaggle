@@ -2,7 +2,7 @@
 
 KaggleDog - [Dog Breed Identification](https://www.kaggle.com/competitions/dog-breed-identification)
 
-Evaluated the performance of all five ResNet modesl using a dataset of 120 different breeds.
+Evaluated the performance of all five ResNet models using a dataset of 120 different breeds.
 
 <br>
 
